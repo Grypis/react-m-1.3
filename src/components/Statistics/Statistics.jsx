@@ -10,6 +10,7 @@ const icons = [
   <MdOutlineProductionQuantityLimits />,
   <GiTreeDoor />,
 ];
+
 export const Statistics = ({ title, stats }) => {
   return (
     <>
