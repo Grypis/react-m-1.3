@@ -33,6 +33,7 @@ export const App = () => {
 
         <Heading title="Task 3 Forbes list" top bottom />
         <ForbesList list={forbes} />
+
         <Heading title="Task 4 Crypto history" top bottom />
         <CryptoHistory items={transactions} />
       </Container>
